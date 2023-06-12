@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Al Jazeera",
+      "title": "Disney bets on free mobile cricket streaming in India",
+      "description": "The strategy shift from Disney, which some analysts say is ‘desperate’, comes as rivalry with JioCinema heats up.",
+      "url": "http://www.aljazeera.com/economy/2023/6/9/disney-bets-on-free-mobile-cricket-streaming-in-india",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/03/GettyImages-1148667121.jpg?resize=1920%2C1440",
+      "publishedAt": "2023-06-09T17:23:47Z",
+      "content": "Walt Disney Cos Hotstar will offer free streaming of cricket tournaments in India on mobile devices, a move that follows rival JioCinemas recent success in garnering millions of viewers with a simila… [+2463 chars]"
+    },
+    {
+      "source": { "id": "news-com-au", "name": "News.com.au" },
+      "author": "Andrew McMurtry",
+      "title": "‘Alarm’: Remarkable scene in Aussie rooms",
+      "description": "<p>If you were an Aussie cricket fan battling to stay awake to watch the World Test Championship final on Friday night, Marnus Labuschagne wasn&rsquo;t helping.</p>",
+      "url": "https://www.news.com.au/sport/cricket/theres-the-alarm-remarkable-scene-in-aussie-rooms/news-story/05a307977fa1d93ac81a1c48acdaa2b8",
+      "urlToImage": "https://content.api.news/v3/images/bin/55b2db09b28819894ff0af0e06bd37b2",
+      "publishedAt": "2023-06-09T17:10:00Z",
+      "content": "If you were an Aussie cricket fan battling to stay awake to watch the World Test Championship final on Friday night, Marnus Labuschagne wasn’t helping.\r\nThe Australian number three looked as peaceful… [+2305 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
