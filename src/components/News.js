@@ -45,14 +45,22 @@ export default class News extends Component {
     this.updateNews();
   }
 
-  handlePrevClick = async () => {
-    this.setState({ page: this.state.page - 1 });
-    this.updateNews();
+  handlePrevClick = () => {
+    this.setState(
+      (prevState) => ({ page: prevState.page - 1 }),
+      () => {
+        this.updateNews();
+      }
+    );
   };
 
-  handleNextClick = async () => {
-    this.setState({ page: this.state.page + 1 });
-    this.updateNews();
+  handleNextClick = () => {
+    this.setState(
+      (prevState) => ({ page: prevState.page + 1 }),
+      () => {
+        this.updateNews();
+      }
+    );
   };
 
   render() {
@@ -61,6 +69,7 @@ export default class News extends Component {
         <h1 className="text-center my-4">
           NewsMonkey - Top {this.capitalizeFirstLetter(this.props.category)}{" "}
           Headlines
+          {this.state.page}
         </h1>
         {this.state.loading && <Spinner />}
         <div className="row">
